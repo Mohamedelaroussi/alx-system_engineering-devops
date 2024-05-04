@@ -50,5 +50,3 @@ backend mohamedelaroussi-backend
         server 434332-web-01 100.26.175.175:80 check
         server 434332-web-02 100.25.192.188:80 check
 
-#       server 434332-web-01 100.26.175.175:80 check
-#       server 434332-web-02 100.25.192.188:80 check
